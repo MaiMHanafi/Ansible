@@ -117,9 +117,7 @@ The playbook uses the following variables:
 | Variable               | Description                               | Default Value       |
 |------------------------|-------------------------------------------|---------------------|
 | `apache_document_root` | Directory for serving web content         | `/var/www/html`     |
---------------------------------------------------------------------------------------------
 | `apache_server_name`   | Apache Server name                        |  `mywebsite.local`  |
---------------------------------------------------------------------------------------------
 | `allowed_ips`          | The allowed (whitelisted) IPs             |    - 192.168.1.10   |
 |                        |                                           |    - 192.168.1.20   |
 |                        |                                           |    - 192.168.1.30   |
