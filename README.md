@@ -162,6 +162,7 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 
 ## Author
-Created by [Mai M. Hanafi](https://github.com/MaiMHanafi).
-Email: maihanafi34@gmail.com
-LinkedIn Profile: linkedin.com/in/mai-mohamed-hanafi-388b131b5
+
+Created by [Mai M. Hanafi](https://github.com/MaiMHanafi)  
+Email: maihanafi34@gmail.com  
+LinkedIn Profile: [linkedin.com/in/mai-mohamed-hanafi-388b131b5](https://linkedin.com/in/mai-mohamed-hanafi-388b131b5)
