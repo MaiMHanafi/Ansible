@@ -162,9 +162,6 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 ---
 
-## License
-N/A
----
 
 ## Author
 Created by [Mai M. Hanafi](https://github.com/MaiMHanafi).
